@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.idea/
+.venv/
+venv/
+
+# результаты работы
+shoots/
+records/
+
+# видео (большие файлы)
+*.mp4
+*.avi
